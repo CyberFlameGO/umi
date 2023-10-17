@@ -67,7 +67,7 @@
     "@babel/preset-typescript": "7.13.0",
     "@babel/register": "7.13.16",
     "@babel/template": "7.12.13",
-    "@babel/traverse": "7.14.0",
+    "@babel/traverse": "7.23.2",
     "@babel/types": "7.14.1",
     "@hapi/joi": "16.1.8",
     "@svgr/webpack": "4.3.3",
